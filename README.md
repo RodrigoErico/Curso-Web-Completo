@@ -1,5 +1,5 @@
-# Curso de Desenvolvimento Web Completo - Udemy
-## [Site do Curso](https://www.udemy.com/course/web-completo/)
+## Curso de Desenvolvimento Web Completo - Udemy
+### [Site do Curso](https://www.udemy.com/course/web-completo/)
 
 ### Seção 03: HTML5
 ### Projetos:
